@@ -6,14 +6,10 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
-		"Color Highlighter",
 		"DocBlockr",
 		"Gutter Color",
-		"LESS",
 		"Minify",
 		"Package Control",
-		"SnippetX",
-		"SublimeLinter",
-		"Vuejs Complete Package"
+		"Vue Syntax Highlight"
 	]
 }
