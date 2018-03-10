@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+this.\$http.put(${1:url}, ${2:data}).then(res => {
+  if (!res.errcode) {
+    ${3}
+  } else this.\$Message.error(res.errmsg);
+}).catch(err => {
+  console.log(err);
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>httpput</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
