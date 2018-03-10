@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"Minify",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Syntax Highlighting for PostCSS",
+		"Vue Syntax Highlight"
+	]
+}

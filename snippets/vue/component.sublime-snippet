@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+<template>
+<div>
+${2:this is a vue component.}
+</div>
+</template>
+
+<script>
+export default {
+  name: '${1}',
+};
+</script>
+
+<style></style>
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>vuec</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source</scope> -->
+</snippet>
