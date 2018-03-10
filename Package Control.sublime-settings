@@ -5,15 +5,15 @@
 	],
 	"installed_packages":
 	[
-		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"DocBlockr",
+		"Gutter Color",
+		"LESS",
 		"Minify",
 		"Package Control",
+		"SnippetX",
 		"SublimeLinter",
-		"SublimeLinter-eslint",
-		"Syntax Highlighting for PostCSS",
-		"Vue Syntax Highlight"
+		"Vuejs Complete Package"
 	]
 }
